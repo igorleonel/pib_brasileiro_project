@@ -110,7 +110,7 @@ Cada uma dessas perguntas será abordada utilizando um tipo específico de visua
 
 ## Gráficos Produzidos
 
-Para verificar um resumo com os principais gráficos gerados ao projeto clique nesse [link](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/Data_Visualization_gr%C3%A1ficos_de_composi%C3%A7%C3%A3o_e_relacionamento_(gr%C3%A1ficos_produzidos).ipynb)
+Para verificar um resumo com os principais gráficos gerados ao projeto clique nesse [link](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/project_pib_ideb_gr%C3%A1ficos_produzidos.ipynb)
 
 ## Conclusão
 
