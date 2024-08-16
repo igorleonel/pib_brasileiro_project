@@ -19,7 +19,7 @@ As cores utilizadas neste projeto foram cuidadosamente selecionadas para garanti
 |------|------|------|------|------|------|
 | AZUL1 |AZUL2 |AZUL3 |AZUL4 |AZUL5 |AZUL6 |
 |#174A7E | #4A81BF | #6495ED| #2596be | #94AFC5 | #CDDBF3 |
-|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/AZUL1.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/AZUL2.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/AZUL3.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/AZUL4.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/AZUL5.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/AZUL6.png?raw=true) |
+|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/AZUL1.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/AZUL2.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/AZUL3.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/AZUL4.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/AZUL5.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/AZUL6.png) |
 
 &nbsp;
 
@@ -27,7 +27,7 @@ As cores utilizadas neste projeto foram cuidadosamente selecionadas para garanti
 |------|------|------|------|------|------|
 | CINZA1 |CINZA2 |CINZA3 |CINZA4 |CINZA5|BRANCO|
 |#231F20 | #414040| #555655 | #A6A6A5| #BFBEBE |#FFFFFF|
-| ![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/CINZA1.png?raw=true)  |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/CINZA2.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/CINZA3.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/CINZA4.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/CINZA5.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/BRANCO.png?raw=true)|
+| ![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/CINZA1.png)  |![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/CINZA2.png) |![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/CINZA3.png) |![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/CINZA4.png) |![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/CINZA5.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/BRANCO.png)|
 
 &nbsp;
 
@@ -35,7 +35,7 @@ As cores utilizadas neste projeto foram cuidadosamente selecionadas para garanti
 |------|------|------|------|------|------|
 | VERMELHO1 |VERMELHO2 |LARANJA1 | VERDE1 |VERDE2 | VERDE3 |
 |#C3514E | #E6BAB7 | #F79747|#0C8040 | #9ABB59 |#9ECCB3|
-| ![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/VERMELHO1.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/VERMELHO2.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/LARANJA1.png?raw=true)| ![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/VERDE1.png?raw=true) |![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/VERDE2.png?raw=true)|![adicionar desc](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/paleta_cores/VERDE3.png?raw=true)|
+| ![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/VERMELHO1.png) |![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/VERMELHO2.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/LARANJA1.png)| ![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/VERDE1.png) |![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/VERDE2.png)|![adicionar desc](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/paleta_cores/VERDE3.png)|
 
 &nbsp;
 
@@ -48,7 +48,7 @@ Na imagem abaixo, apresentamos um diagrama com diversos tipos de **visualizaçã
 - Relacionamento
 - Composição
 
-![Diagrama de Visualização de Dados (Andrew Abela - Traduzido por Afonso Rios)](https://github.com/alura-cursos/dataviz-graficos-composicao-relacionamento/blob/main/imagens/Tipos_Graficos/Diagrama%20de%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20(Andrew%20Abela%20-%20Traduzido%20por%20Afonso%20Rios).png)
+![Diagrama de Visualização de Dados (Andrew Abela - Traduzido por Afonso Rios)](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/imagens/Tipos_Graficos/Diagrama%20de%20Visualiza%C3%A7%C3%A3o%20de%20Dados%20(Andrew%20Abela%20-%20Traduzido%20por%20Afonso%20Rios).png)
 
 Para este projeto focamos nos subgrupos da Composição e Relacionamento, levando em conta as observações que gostaríamos de apresentar em nosso portfólio.
 
