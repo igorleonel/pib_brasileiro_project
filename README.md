@@ -76,19 +76,31 @@ Neste projeto, vamos explorar diversos gráficos de relacionamento dentre eles:
 
 Durante a análise dos dados, exploramos uma série de perguntas-chave para compreender melhor as dinâmicas econômicas e educacionais do Brasil. Os questionamentos que guiamos neste projeto incluem:
 
-1. Houve uma significativa mudança na distribuição do PIB por região comparando os valores de 2002 e 2020?
-2. Qual a participação da Região Norte nos valores agregados da indústria de todo Brasil nos anos de 2010 e 2020? Podemos notar algum comportamento?
-3. Qual a participação do Estado de Minas Gerais no PIB de todo o Brasil no ano de 2020?
-4. Como está distribuído o PIB do Estado da Bahia em 2020, separado por impostos líquidos e os valores adicionados brutos dos bens e serviços produzidos?
-5. Qual a evolução anual do PIB do Estado do Rio de Janeiro entre os anos de 2010 a 2020?
-6. Qual a evolução anual do valor agregado de serviços na Região Nordeste entre os anos de 2016 a 2020?
-7. Como está distribuído o PIB nos três últimos quinquênios dos dados (2010, 2015, 2020) na Região Sul do Brasil, divididos pelos Estados (Paraná, Santa Catarina e Rio Grande do Sul)?
-8. Como estão distribuídos, em porcentagem, os valores adicionados de bens e serviços descritos na base de dados em relação a cada região no ano de 2020?
-9. Como está composto os valores agregados brutos dos bens e serviços (em valor absoluto) em relação aos Estados da região Norte no ano de 2020?
-10. Na agropecuária, como estão distribuídos seus valores adicionados por região dentro do período da base dos dados (2002 - 2020)?
-11. Qual foi a variação do PIB relativo à indústria nas regiões do Brasil nos anos de 2010, 2015 e 2020?
-12. Qual a relação entre as notas das disciplinas de língua portuguesa e matemática no SAEB por região no Ensino Fundamental Anos Iniciais? Conseguimos traçar algum paralelo entre elas?
-13. Qual seria a relação entre a taxa de aprovação e a média da nota do SAEB no Ensino Fundamental Anos Finais? Conseguimos notar como as duas se distribuem em relação ao IDEB e as regiões?
+**1. Houve uma significativa mudança na distribuição do PIB por região comparando os valores de 2002 e 2020?**   
+
+**2. Qual a participação da Região Norte nos valores agregados da indústria de todo Brasil nos anos de 2010 e 2020? Podemos notar algum comportamento?**   
+
+**3. Qual a participação do Estado de Minas Gerais no PIB de todo o Brasil no ano de 2020?**
+   
+**4. Como está distribuído o PIB do Estado da Bahia em 2020, separado por impostos líquidos e os valores adicionados brutos dos bens e serviços produzidos?**
+   
+**5. Qual a evolução anual do PIB do Estado do Rio de Janeiro entre os anos de 2010 a 2020?**
+   
+**6. Qual a evolução anual do valor agregado de serviços na Região Nordeste entre os anos de 2016 a 2020?**
+   
+**7. Como está distribuído o PIB nos três últimos quinquênios dos dados (2010, 2015, 2020) na Região Sul do Brasil, divididos pelos Estados (Paraná, Santa Catarina e Rio Grande do Sul)?**
+   
+**8. Como estão distribuídos, em porcentagem, os valores adicionados de bens e serviços descritos na base de dados em relação a cada região no ano de 2020?**
+   
+**9. Como está composto os valores agregados brutos dos bens e serviços (em valor absoluto) em relação aos Estados da região Norte no ano de 2020?**
+    
+**10. Na agropecuária, como estão distribuídos seus valores adicionados por região dentro do período da base dos dados (2002 - 2020)?**
+    
+**11. Qual foi a variação do PIB relativo à indústria nas regiões do Brasil nos anos de 2010, 2015 e 2020?**
+ 
+**12. Qual a relação entre as notas das disciplinas de língua portuguesa e matemática no SAEB por região no Ensino Fundamental Anos Iniciais? Conseguimos traçar algum paralelo entre elas?**
+    
+**13. Qual seria a relação entre a taxa de aprovação e a média da nota do SAEB no Ensino Fundamental Anos Finais? Conseguimos notar como as duas se distribuem em relação ao IDEB e as regiões?**
 
 Cada uma dessas perguntas será abordada utilizando um tipo específico de visualização de dados, juntamente com elementos visuais como anotações, destaques e legendas para focar a atenção do público nas informações mais importantes e nos insights que queremos destacar.
 
