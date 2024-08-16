@@ -102,6 +102,10 @@ Durante a análise dos dados, exploramos uma série de perguntas-chave para comp
     
 **13. Qual seria a relação entre a taxa de aprovação e a média da nota do SAEB no Ensino Fundamental Anos Finais? Conseguimos notar como as duas se distribuem em relação ao IDEB e as regiões?**
 
+**14. Qual a relação entre as notas das disciplinas de língua portuguesa e matemática do SAEB no Ensino Fundamental Anos Finais no período das 5 últimas avaliações?**
+
+**15. Qual seria a relação entre as notas do SAEB no Ensino Médio? Conseguimos notar como as duas se comportam em relação a taxa de aprovação e as regiões?**
+
 Cada uma dessas perguntas será abordada utilizando um tipo específico de visualização de dados, juntamente com elementos visuais como anotações, destaques e legendas para focar a atenção do público nas informações mais importantes e nos insights que queremos destacar.
 
 ## Gráficos Produzidos
