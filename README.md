@@ -4,9 +4,7 @@ Neste projeto, exploramos e visualizamos duas bases de dados: o Produto Interno 
 
 O objetivo do projeto foi apresentar diferentes tipos de visualização de dados e aprender a escolher as mais adequadas para responder a perguntas e atender demandas analíticas. Durante a execução, utilizamos gráficos de composição e de relacionamento para gerar insights visuais sobre as tendências econômicas e educacionais do Brasil.
 
-## Projetos
-
-> Base de dados:
+## Base de dados:
  
 1. [Tabela com os PIBs (Produto Interno Bruto) dos estados brasileiros no período de 2002 - 2020](https://basedosdados.org/dataset/96eab476-5d30-459b-82be-f888d4d0d6b9?table=bc84dea9-1126-4423-86d2-8835e6b19a72)
 2. [Tabela com a pontuação do IDEB (Índice de Desenvolvimento da Educação Básica) das escolas à nivel nacional](https://basedosdados.org/dataset/fcf025ca-8b19-4131-8e2d-5ddb12492347?table=93007431-7ce9-42ee-8740-8c2274d345ad)
