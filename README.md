@@ -89,20 +89,18 @@ Durante a análise dos dados, exploramos uma série de perguntas-chave para comp
 **7. Como está distribuído o PIB nos três últimos quinquênios dos dados (2010, 2015, 2020) na Região Sul do Brasil, divididos pelos Estados (Paraná, Santa Catarina e Rio Grande do Sul)?**
    
 **8. Como estão distribuídos, em porcentagem, os valores adicionados de bens e serviços descritos na base de dados em relação a cada região no ano de 2020?**
-   
-**9. Como está composto os valores agregados brutos dos bens e serviços (em valor absoluto) em relação aos Estados da região Norte no ano de 2020?**
     
-**10. Na agropecuária, como estão distribuídos seus valores adicionados por região dentro do período da base dos dados (2002 - 2020)?**
+**9. Na agropecuária, como estão distribuídos seus valores adicionados por região dentro do período da base dos dados (2002 - 2020)?**
     
-**11. Qual foi a variação do PIB relativo à indústria nas regiões do Brasil nos anos de 2010, 2015 e 2020?**
- 
-**12. Qual a relação entre as notas das disciplinas de língua portuguesa e matemática no SAEB por região no Ensino Fundamental Anos Iniciais? Conseguimos traçar algum paralelo entre elas?**
-    
-**13. Qual seria a relação entre a taxa de aprovação e a média da nota do SAEB no Ensino Fundamental Anos Finais? Conseguimos notar como as duas se distribuem em relação ao IDEB e as regiões?**
+**10. Qual foi a variação do PIB relativo à indústria nas regiões do Brasil nos anos de 2010, 2015 e 2020?**
 
-**14. Qual a relação entre as notas das disciplinas de língua portuguesa e matemática do SAEB no Ensino Fundamental Anos Finais no período das 5 últimas avaliações?**
+**11. Qual a relação entre as notas das disciplinas de língua portuguesa e matemática no SAEB por região no Ensino Fundamental Anos Iniciais? Conseguimos traçar algum paralelo entre elas?**
+    
+**12. Qual seria a relação entre a taxa de aprovação e a média da nota do SAEB no Ensino Fundamental Anos Finais? Conseguimos notar como as duas se distribuem em relação ao IDEB e as regiões?**
 
-**15. Qual seria a relação entre as notas do SAEB no Ensino Médio? Conseguimos notar como as duas se comportam em relação a taxa de aprovação e as regiões?**
+**13. Qual a relação entre as notas das disciplinas de língua portuguesa e matemática do SAEB no Ensino Fundamental Anos Finais no período das 5 últimas avaliações?**
+
+**14. Qual seria a relação entre as notas do SAEB no Ensino Médio? Conseguimos notar como as duas se comportam em relação a taxa de aprovação e as regiões?**
 
 Cada uma dessas perguntas será abordada utilizando um tipo específico de visualização de dados, juntamente com elementos visuais como anotações, destaques e legendas para focar a atenção do público nas informações mais importantes e nos insights que queremos destacar.
 
