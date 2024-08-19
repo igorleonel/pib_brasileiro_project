@@ -110,7 +110,7 @@ Cada uma dessas perguntas será abordada utilizando um tipo específico de visua
 
 ## Gráficos Produzidos
 
-Para verificar um resumo com os principais gráficos gerados ao projeto clique nesse [link](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/project_pib_ideb_gr%C3%A1ficos_produzidos.ipynb)
+Para verificar um resumo com os principais gráficos gerados ao projeto clique nesse [link](https://github.com/igorleonel/pib_ideb_brasileiro_project/blob/main/project_pib_ideb_gr%C3%A1ficos_produzidos.ipynb) e para ver o projeto completo, acesse este [link](https://colab.research.google.com/drive/1KjAPYQ39CnmgacX5GfLiB47quSZL_Z4e?usp=sharing)
 
 ## Conclusão
 
